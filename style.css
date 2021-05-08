@@ -1,0 +1,20 @@
+ * {
+    background-color: aliceblue;
+ }
+ 
+ img {
+    border : solid;
+    border-radius: 20px;
+}
+
+ .Origamis {
+     display : flex;
+     flex-wrap : wrap
+ }
+
+ .Colorigami {
+    display : flex;
+    flex-wrap : wrap
+}
+ 
+ 
